@@ -21,7 +21,9 @@ Algoritmo sin_titulo
 				CostoHora <- 2000
 		Fin Segun
 
-	
+		Si hora >=1 Entonces
+			Escribir hora * CostoHora
+		FinSi
 		
 		Segun hora Hacer
 			0:
