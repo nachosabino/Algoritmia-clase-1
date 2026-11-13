@@ -1,0 +1,9 @@
+Semana1 Algoritmia
+
+¿Qué es un algoritmo? : Un lenguage que paso a paso decribe acciones.
+
+Ejemplo de un proceso a paso: Despertar alistarse para salir.
+
+Suena la alarma, abro los ojos, dectecto el sonido, busco el telefono con la mano, quito el despetador, me levanto de la cama, agarro la toalla, entro al baño, abro la ducha, salgo, me cepillo los dientes, busco la ropa, me alisto y salgo. 
+
+Dentro de cada paso, hay otros pasos que describen acciones.
